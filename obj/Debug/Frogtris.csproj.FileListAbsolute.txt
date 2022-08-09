@@ -1,0 +1,11 @@
+C:\Users\asus\OneDrive\Pulpit\Studia\II_ROK\P.Obiektowe\Programowanie Obiektowe 2\Frogtris\obj\Debug\Frogtris.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Pulpit\Studia\II_ROK\P.Obiektowe\Programowanie Obiektowe 2\Frogtris\obj\Debug\Frogtris.FrogTris.resources
+C:\Users\asus\OneDrive\Pulpit\Studia\II_ROK\P.Obiektowe\Programowanie Obiektowe 2\Frogtris\obj\Debug\Frogtris.Properties.Resources.resources
+C:\Users\asus\OneDrive\Pulpit\Studia\II_ROK\P.Obiektowe\Programowanie Obiektowe 2\Frogtris\obj\Debug\Frogtris.csproj.GenerateResource.cache
+C:\Users\asus\OneDrive\Pulpit\Studia\II_ROK\P.Obiektowe\Programowanie Obiektowe 2\Frogtris\obj\Debug\Frogtris.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Pulpit\Studia\II_ROK\P.Obiektowe\Programowanie Obiektowe 2\Frogtris\bin\Debug\Frogtris.exe.config
+C:\Users\asus\OneDrive\Pulpit\Studia\II_ROK\P.Obiektowe\Programowanie Obiektowe 2\Frogtris\bin\Debug\Frogtris.exe
+C:\Users\asus\OneDrive\Pulpit\Studia\II_ROK\P.Obiektowe\Programowanie Obiektowe 2\Frogtris\bin\Debug\Frogtris.pdb
+C:\Users\asus\OneDrive\Pulpit\Studia\II_ROK\P.Obiektowe\Programowanie Obiektowe 2\Frogtris\obj\Debug\Frogtris.exe
+C:\Users\asus\OneDrive\Pulpit\Studia\II_ROK\P.Obiektowe\Programowanie Obiektowe 2\Frogtris\obj\Debug\Frogtris.pdb
+C:\Users\asus\OneDrive\Pulpit\Studia\II_ROK\P.Obiektowe\Programowanie Obiektowe 2\Frogtris\obj\Debug\Frogtris.g.resources
